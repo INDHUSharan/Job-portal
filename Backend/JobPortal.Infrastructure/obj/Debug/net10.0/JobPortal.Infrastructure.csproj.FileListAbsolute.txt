@@ -1,0 +1,17 @@
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Infrastructure.deps.json
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Infrastructure.dll
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Infrastructure.pdb
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.AssemblyInfoInputs.cache
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.AssemblyInfo.cs
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.dll
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\refint\JobPortal.Infrastructure.dll
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.pdb
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\ref\JobPortal.Infrastructure.dll
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Application.dll
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Domain.dll
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Application.pdb
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\bin\Debug\net10.0\JobPortal.Domain.pdb
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPortal.Infrastructure.csproj.AssemblyReference.cache
+D:\Indhu\web development\Job portal\Backend\JobPortal.Infrastructure\obj\Debug\net10.0\JobPorta.9BCA61E9.Up2Date

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ado51NCI5qs=",
+  "success": true,
+  "projectFilePath": "D:\\Indhu\\web development\\Job portal\\Backend\\JobPortal.API\\JobPortal.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\mongodb.bson\\3.9.0\\mongodb.bson.3.9.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\mongodb.driver\\3.9.0\\mongodb.driver.3.9.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\sharpcompress\\0.48.1\\sharpcompress.0.48.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\snappier\\1.3.1\\snappier.1.3.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
